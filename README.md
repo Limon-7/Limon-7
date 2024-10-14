@@ -33,7 +33,7 @@
   </tr>
 </table>
 
-### 🏆 My Contributions So Far:
+### 🏆 My Contributions:
 <table>
   <tr>
     <td>
