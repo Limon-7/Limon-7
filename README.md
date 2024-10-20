@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Limon! ![Visitor Count](https://komarev.com/ghpvc/?username=Limon-7&color=brightgreen&style=flat-square) |  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/limon7/) | [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/GreenLii/) | [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/limon7)|[![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-orange?style=flat-square&logo=huggingface)](https://huggingface.co/limon7)
+# 👋 Hi, I'm Limon! ![Visitor Count](https://komarev.com/ghpvc/?username=Limon-7&color=brightgreen&style=flat-square) |  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/limon7/) | [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/GreenLii/) | [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/limon7) | [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-orange?style=flat-square&logo=huggingface)](https://huggingface.co/limon7)
 
 
 
@@ -18,6 +18,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F20?style=flat-square&logo=tensorflow&logoColor=white)
+
+---
+
+## 🏷️ Topics
+[![Backend](https://img.shields.io/badge/Category-Backend-darkgreen?style=for-the-badge)](https://github.com/Limon-s-backend-zone)  [![Forntend](https://img.shields.io/badge/Category-Frontend-yellow?style=for-the-badge)](https://github.com/limon-s-js-zone)  [![AI](https://img.shields.io/badge/Category-AI-lightblue?style=for-the-badge)](https://github.com/Limon-s-AI-Zone)  [![Interview](https://img.shields.io/badge/Category-Interview-critical?style=for-the-badge)](https://github.com/Limon-s-Interview-Prep-Zone) [![LeetCode](https://img.shields.io/badge/Category-LeetCode-orange?style=for-the-badge)](https://github.com/Limon-s-Interview-Prep-Zone/leetcode)
 
 ---
 ## 📊 Stats & Activity
